@@ -1,28 +1,40 @@
-name: GKTYW
-favicon: null
-layout_spectrum: 0.7382079239469022
-typography_spectrum: 0.369700524257496
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1342276635114104
+  brandStrength: 0.5501288722734898
+  rhythmicContrast: 0.6850267944391817
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5501288722734898
   lightness: 0.5394345845561475
-  saturation: 0.13422766351141036
-  rhythmicContrast: 0.6850267944391817
-purpose: []
+typography_spectrum: 0.4932546
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: GKTYW
