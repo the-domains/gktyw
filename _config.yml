@@ -1,4 +1,5 @@
-layout_spectrum: 1
+favicon: null
+name: GKTYW
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.1342276635114104
+  saturation: 1
   brandStrength: 0.5501288722734898
-  rhythmicContrast: 0.6850267944391817
+  lightness: 0
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  lightness: 0.5394345845561475
+  rhythmicContrast: 0.3094435
 typography_spectrum: 0.4932546
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: GKTYW
+cta:
+  bucket: null
+  version: null
+  domain: null
